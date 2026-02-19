@@ -3,5 +3,5 @@ Analyzed 15K+ quantity and 3K+ transactions  Created KPIs using DAX (Total Quant
 
 
 <img src="https://github.com/SagarBorekar/Speedy-Food-Delivery-Dashboard-Power-BI-/blob/e2f15ed40a1ced7045cb060d93641eb3c6a8e75d/Speedy_Food.png" alt="Dashboard Preview">
-<br
+
 <img src="https://github.com/SagarBorekar/Speedy-Food-Delivery-Dashboard-Power-BI-/blob/e2f15ed40a1ced7045cb060d93641eb3c6a8e75d/Speedy_Food2.png" alt="Dashboard Preview">
